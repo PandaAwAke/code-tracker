@@ -213,6 +213,7 @@
                         <manifest>
                             <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
                             <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
+                            <mainClass>org.codetracker.TrackMethodHistoryCommitsMain</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
